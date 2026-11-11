@@ -1,4 +1,15 @@
-﻿using DevExpress.Utils.Svg;
+﻿/*
+ * Easy약관Plus & Easy약관PDF
+ * Copyright (C) 2026 (주)데이타존
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This software uses the iText 7 library, which is licensed under the AGPL-3.0.
+ */
+using DevExpress.Utils.Svg;
 using DevExpress.XtraEditors;
 using H2PControl.Events;
 using H2PControl.Handlers;
