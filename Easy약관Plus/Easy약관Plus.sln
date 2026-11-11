@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy약관Plus", "Easy약관Plus\Easy약관Plus.csproj", "{C00DEFC9-2F6F-403A-8971-825E9A001CF1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Easy약관Setup", "Setup1\Setup1.vdproj", "{644411E3-6CD6-4090-BAAD-7A920089E48A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Debug|x86.Build.0 = Debug|Any CPU
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Release|x86.ActiveCfg = Release|x86
+		{C00DEFC9-2F6F-403A-8971-825E9A001CF1}.Release|x86.Build.0 = Release|x86
+		{644411E3-6CD6-4090-BAAD-7A920089E48A}.Debug|Any CPU.ActiveCfg = Debug
+		{644411E3-6CD6-4090-BAAD-7A920089E48A}.Debug|x86.ActiveCfg = Debug
+		{644411E3-6CD6-4090-BAAD-7A920089E48A}.Debug|x86.Build.0 = Debug
+		{644411E3-6CD6-4090-BAAD-7A920089E48A}.Release|Any CPU.ActiveCfg = Release
+		{644411E3-6CD6-4090-BAAD-7A920089E48A}.Release|x86.ActiveCfg = Release
+		{644411E3-6CD6-4090-BAAD-7A920089E48A}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A9FF69-380E-4443-A09F-D31CE6CF5A6D}
+	EndGlobalSection
+EndGlobal

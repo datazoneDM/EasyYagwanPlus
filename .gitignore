@@ -1,0 +1,45 @@
+# 1. Visual Studio 기본 빌드 결과물 (자동 생성되므로 업로드 금지)
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+
+# 2. 상용 컴포넌트 및 실행 파일 무단 배포 방지 (DevExpress, ActiveX 등)
+*.dll
+*.exe
+*.ocx
+*.pdb
+
+# 3. NuGet 패키지 (다른 PC에서 빌드 시 자동 복원됨)
+packages/
+*.nuget/
+
+# 4. ★★★ [매우 중요] 실제 고객 데이터 및 생성물 유출 차단 ★★★
+# d:\Easy약관Plus\ 하위에 생성되는 실제 작업 폴더들을 통째로 차단합니다.
+Input/
+Output/
+List/
+PID/
+감시/
+Y/
+StateFile/
+상품별세션/
+목차/
+@에러격리/
+@완료/
+@맞춤증권/
+@증권/
+
+# 5. 설정 파일, 임시 통신 마커 및 로그 파일 차단
+localDB.txt
+*.log
+*.PID
+*.단계*
+*.Re
+*.xxx
+*.END
+*.가져옴
+*.종료

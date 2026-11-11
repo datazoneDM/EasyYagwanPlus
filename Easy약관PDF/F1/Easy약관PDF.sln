@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f1", "f1.csproj", "{C5361F44-620C-4098-B018-A8FACDB32635}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hwp2Pdf(P)_Setup", "Hwp2Pdf(P)_Setup\Hwp2Pdf(P)_Setup.vdproj", "{86F49F55-D975-4BD3-BC37-96E1ABD1A57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5361F44-620C-4098-B018-A8FACDB32635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5361F44-620C-4098-B018-A8FACDB32635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5361F44-620C-4098-B018-A8FACDB32635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5361F44-620C-4098-B018-A8FACDB32635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F49F55-D975-4BD3-BC37-96E1ABD1A57A}.Debug|Any CPU.ActiveCfg = Debug
+		{86F49F55-D975-4BD3-BC37-96E1ABD1A57A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D22DCA-1E0C-4F8D-8427-B3572B5EA33D}
+	EndGlobalSection
+EndGlobal
